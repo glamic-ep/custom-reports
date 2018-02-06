@@ -1,5 +1,5 @@
 {
-    "name": "kalenjordan/custom-reports",
+    "name": "glamic-ep/custom-reports",
     "type": "magento-module",
     "description": "Easily create reports using a SQL query",
     "require": {
